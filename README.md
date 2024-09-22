@@ -1,4 +1,4 @@
-### Ola! Eu sou o Fabo Santos 🤙
+### Ola! Eu sou o Fabio Santos 🤙
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fabio-santos-24201120a)
 [![linkedin](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100081757002657)
