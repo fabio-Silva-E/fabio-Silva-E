@@ -1,6 +1,6 @@
 ### Ola! Eu sou o Fabio Santos 🤙
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fabio-silva-a9551935a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-silva-a9551935a)
 [![linkedin](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100081757002657)
 
 ![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabio-Silva-E&show_icons=true&theme=dracula)
