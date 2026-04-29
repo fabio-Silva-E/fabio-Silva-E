@@ -4,7 +4,7 @@
 [![linkedin](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100081757002657)
 
 
-### Tecnologias que ja desenvolvi
+### Tecnologias que usei em meu desenvolvimentos
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -28,6 +28,8 @@
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="Parse Server" src="https://img.shields.io/badge/Parse%20Server-1697F6?style=for-the-badge&logo=parse&logoColor=white"/>
+<img align="center" alt="pyton" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="center" alt="pyton" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 tecnologias que uso em meus trabalhos de automação
