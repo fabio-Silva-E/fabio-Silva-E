@@ -34,6 +34,7 @@
 tecnologias que uso em meus trabalhos de automação
 <div style="display: inline_block"><br/>
 <img align="center" alt="pyton" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </div>
 # meu contato pessoal 
 
