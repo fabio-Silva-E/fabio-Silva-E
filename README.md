@@ -29,7 +29,6 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="Parse Server" src="https://img.shields.io/badge/Parse%20Server-1697F6?style=for-the-badge&logo=parse&logoColor=white"/>
 <img align="center" alt="pyton" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" alt="pyton" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 tecnologias que uso em meus trabalhos de automação
